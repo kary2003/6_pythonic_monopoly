@@ -19,13 +19,13 @@ In this homework assignment, you will help Harold accomplish the following tasks
 
 ## Files
 
-sfo_neighborhoods_census_data.csv
-neighborhoods_coordinates.csv
-Rental Analysis Starter Jupyter Notebook
-Dashboard Starter Jupyter Notebook
+* sfo_neighborhoods_census_data.csv
+* neighborhoods_coordinates.csv
+* Rental Analysis Starter Jupyter Notebook
+* Dashboard Starter Jupyter Notebook
 
 
-Instructions
+# Instructions
 
 ## Rental Analysis
 The first step to building the dashboard is to work out all of the calculations and visualizations in an analysis notebook. Once the code is worked out here, it can be copied over to a dashboard code and used with Panel to create the final layout. Use the rental_analysis.ipynb to complete the following:
@@ -81,18 +81,10 @@ Sample Dashboard:
 ![san fran](https://user-images.githubusercontent.com/70820754/98717061-cc2cb980-2349-11eb-9619-e3e5582dd719.png)
 
 Submission
-
-
-Create separate notebooks for the analysis and the dashboard and upload these to Github.
-
-
-Complete your README to explain how to run and use your dashboard.
-
-
-Note: You should not submit your mapbox access token to Github!
-
-
-Submit the Github URL repository to Bootcampspot.
+* Create separate notebooks for the analysis and the dashboard and upload these to Github.
+* Complete your README to explain how to run and use your dashboard.
+  * Note: You should not submit your mapbox access token to Github!
+  * Submit the Github URL repository to Bootcampspot.
 
 
 
